@@ -1,5 +1,3 @@
-// may need another file!!!! index.js
-//requires mongoose
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
