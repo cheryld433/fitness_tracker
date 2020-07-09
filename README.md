@@ -23,6 +23,8 @@ npm install
 ## Usage:
 Live Demo: https://trace-my-workout.herokuapp.com/
 
+![demo](./public/img/demo.gif)
+
 ## Contributors:
 Cheryl Daniels  https://cheryld433.github.io/Portfolio/
 
